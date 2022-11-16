@@ -3,7 +3,7 @@ layout: cv
 title: Marco Della Vedova's CV
 ---
 # Marco Della Vedova
-Site Reliability Engineer at Vonage, interested in containers/orchestration, micro services, public cloud, open source software.
+Site Reliability Engineer at Vonage, interested in containers/orchestration, microservices, public cloud, open source software.
 
 <div id="webaddress">
 <a href="marcodellav@gmail.com">marcodellav@gmail.com</a>
