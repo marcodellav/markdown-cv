@@ -7,7 +7,7 @@ Site Reliability Engineer at Vonage, interested in containers/orchestration, mic
 
 <div id="webaddress">
 <a href="marcodellav@gmail.com">marcodellav@gmail.com</a>
-| <a href="https://www.linkedin.com/in/marcodellav">linkedin</a>
+| <a href="https://www.linkedin.com/in/marcodellav">www.linkedin.com/in/marcodellav</a>
 </div>
 
 ## Currently
