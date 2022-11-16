@@ -17,6 +17,7 @@ Looking for a role that allows me to become more involved in the development pro
 ## Experience
 
 __Site Reliability Engineer__
+
 __Vonage__, London, UK
 `02/2021 - Present`
 
@@ -29,6 +30,7 @@ Responsablities include:
 - deploying and troubleshooting a service mesh (Linkerd)
 
 __Site Reliability Engineer__
+
 __Squiz__, London, UK
 `11/2018 - 02/2021`
 
@@ -40,6 +42,7 @@ Key responsibilities included:
 - Collaborating with project teams and client teams located in the United States, Europe and Australia
 
 __Service Desk Technician__
+
 __Ocado Technology__, Hatfield, UK
 `03/2018 - 11/2018`
 
@@ -50,12 +53,14 @@ Worked as a 2nd Line support technician in the in-house technology department of
 - Supporting Oracle Database and other relational database management systems.
 
 __Freelance Website Creation/Hosting__
+
 __Self Employed__, London, UK
 `06/2017 - 03/2018`
 
 Developed and supported simple e-commerce solutions based on WordPress and WooCommerce, as well as other CMS platforms, and self-hosted these on the AWS public cloud platform.
 
 __Head of Operations/Windows Systems Administrator__
+
 __Dino PC__, London, UK
 `02/2016 - 06/2017`
 
