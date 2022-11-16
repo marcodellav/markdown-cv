@@ -14,6 +14,39 @@ Site Reliability Engineer at Vonage, interested in containers/orchestration, mic
 
 Looking for a role that allows me to become more involved in the development process of tooling to support infrastructure automation, as well as to continue working on automating application deployment in a serverless environment.
 
+## Skills
+
+__Container Orchestration:__
+
+- Managed Kubernetes (EKS and OpenShift)
+
+__Serverless Frameworks:__
+
+- Knative, OpenFaaS
+
+__IAC:__
+
+- Terraform, Cloudformation
+
+__Programming languages:__
+
+- bash (scripting)
+- python (scripting)
+- C (mainly embedded)
+
+__CI/CD:__
+
+- ArgoCD, Argo Workflows, GitHub Actions, Jenkins
+
+
+__Databases:__
+
+- Postgres (Amazon RDS), Redis, Clickhouse
+
+__Monitoring and Alerting:__
+
+- Loki Stack, VictoriaMetrics, Grafana, ELK
+
 ## Experience
 
 `02/2021 - Present`
@@ -22,19 +55,19 @@ __Site Reliability Engineer, [Vonage](https://www.vonage.co.uk/), London, UK__
 
 - Joined Vonage's as a SRE to support the team in charge of developing framework and tooling for the company's serverless project.  
 Tasked with researching and provisioning the infrastructure required to run serverless deployments,  
-leveraging knative serving, running in a managed Kubernetes environment (EKS)  
+leveraging knative serving, running in a managed Kubernetes environment (AWS EKS)  
 - Responsablities include:
-    - provisioning of the required AWS infrastructure using terraform/terragrunt and cloudformation
-    - Supporting the dev team with their CI/CD processes built on top of ArgoCD, Argo Workflows and github actions.
-    - deploying and managing the monitoring and alerting stack (VictoriaMetrics / Loki Stack)
-    - deploying and troubleshooting a service mesh (Linkerd)
+  - provisioning of the required infrastructure in AWS, using terraform/terragrunt and cloudformation
+  - Supporting the dev team with their CI/CD processes built on top of ArgoCD, Argo Workflows and github actions.
+  - deploying and managing the monitoring and alerting stack (VictoriaMetrics / Loki Stack)
+  - deploying and troubleshooting a service mesh (Linkerd)
 
 `11/2018 - 02/2021`
 
 __Site Reliability Engineer, [Squiz](https://www.squiz.net/), London, UK__
 
 - Joined Squiz's Customer Response Unit to help ensure the availability, scalability, and performance of Squiz's software products:  
-Squiz Matrix (a complex, highly scalable, PHP-based CMS solution) and FunnelBack (a powerful search engine platform).
+Squiz Matrix (a feature rich, highly scalable, PHP-based CMS solution) and FunnelBack (a flexible search engine platform).
 - Key responsibilities included:
   - Automating systems to help build and manage Squiz's infrastructure and streamline product/project deployment
   - Utilising tools and custom systems to improve the Company's ability to deploy, automate, and effectively monitor custom Linux applications 
@@ -78,6 +111,10 @@ troubleshooting of issues and expansion and maintenance of the network infrastru
 `1997 - 2002`
 __Istituto Statale d'Istruzione Superiore - Galilei Fermi Pacassi__
 Diploma in Computer Science, A-Levels equivalent
+
+## Languages
+- English (fluent)
+- Italian (mother tongue)
 
 <!-- ### Footer
 
