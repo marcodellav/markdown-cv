@@ -46,9 +46,12 @@ __Service Desk Technician__
 __Ocado Technology__, Hatfield, UK
 `03/2018 - 11/2018`
 
-Worked as a 2nd Line support technician in the in-house technology department of the world's largest dedicated online grocery retailer, supporting a wide range of business-critical Services and Applications running on various Linux and UNIX based platforms, as well as workloads running on Windows Server. Duties included:
+Worked as a 2nd Line support technician in the in-house technology department of the world's largest dedicated online grocery retailer,
+supporting a wide range of business-critical Services and Applications running on various Linux and UNIX based platforms, as well as workloads running on Windows Server.
+Duties included:
 - Diagnosing, Troubleshooting and Resolving issues with network appliances, monitoring for potential problems through tools such as OpenNMS, Aruba AirWave and others.
-- Ensuring the safe and prompt deployment of software changes from the development into the production IT environments, minimising the risk of service disruption due to incidents related to such changes.
+- Ensuring the safe and prompt deployment of software changes from the development into the production IT environments,
+  minimising the risk of service disruption due to incidents related to such changes.
 - Ensuring the correct execution of data warehousing processes, monitoring for extractions, transformations, and loads (ETL) to complete successfully.
 - Supporting Oracle Database and other relational database management systems.
 
@@ -64,7 +67,10 @@ __Head of Operations/Windows Systems Administrator__
 __Dino PC__, London, UK
 `02/2016 - 06/2017`
 
-Oversaw production of goods and provision of services, always striving to achieve optimal efficiency while promoting a company culture founded on enabling and encouraging self-starters, and rewarding collaborative teamwork. Also acting as Systems Administrator, responsible for the upkeep of the company's IT infrastructure, active directory administration, troubleshooting of issues and expansion and maintenance of the network infrastructure.
+Oversaw production of goods and provision of services, always striving to achieve optimal efficiency while promoting a company culture founded on enabling and encouraging self-starters,
+and rewarding collaborative teamwork.
+Also acting as Systems Administrator, responsible for the upkeep of the company's IT infrastructure, active directory administration,
+troubleshooting of issues and expansion and maintenance of the network infrastructure.
 
 
 ## Education
