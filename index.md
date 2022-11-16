@@ -14,18 +14,19 @@ Site Reliability Engineer at Vonage, interested in containers/orchestration, mic
 
 Looking for a role that allows me to become more involved in the development process of tooling to support infrastructure automation, as well as to continue working on automating application deployment in a serverless environment.
 
-### Experience
-#### Site Reliability Engineer
-Vonage
-02/2021 - Present (1 year 10 months)
-London, UK
+## Experience
+
+__Vonage__, London, UK
+`02/2021 - Present (1 year 10 months)`
+Site Reliability Engineer
+
 Joined Vonage's as a SRE to support the team in charge of developing framework and tooling for the company's serverless project. 
 Tasked with researching and provisioning the infrastructure required to run serverless deployments, leveraging knative serving, running in a managed Kubernetes environment (EKS) 
 Responsablities include:
-provisioning of the required AWS infrastructure using terraform/terragrunt and cloudformation
-Supporting the dev team with their CI/CD processes built on top of ArgoCD, Argo Workflows and github actions.
-deploying and managing the monitoring and alerting stack (VictoriaMetrics / Loki Stack)
-deploying and troubleshooting a service mesh (Linkerd)
+- provisioning of the required AWS infrastructure using terraform/terragrunt and cloudformation
+- Supporting the dev team with their CI/CD processes built on top of ArgoCD, Argo Workflows and github actions.
+- deploying and managing the monitoring and alerting stack (VictoriaMetrics / Loki Stack)
+- deploying and troubleshooting a service mesh (Linkerd)
 
 ### Site Reliability Engineer
 #### Squiz
