@@ -165,7 +165,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 35%;
+	left: 40%;
 	color: #e28743;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
@@ -182,6 +182,7 @@ em {
 
 strong {
 	font-weight: bold;
+	color: #154c79
 }
 
 #ghbutton {
