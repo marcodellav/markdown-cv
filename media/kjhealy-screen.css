@@ -74,7 +74,7 @@ code {
 	font-size: 60%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #aaa;
+	color: #e28743;
 }
 
 p code {
@@ -134,7 +134,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	color: #1e81b0;
 	margin-top: 3em;
 	position: relative;
 	top: 1.4em;
@@ -164,7 +164,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 33%;
-	color: #aaa;
+	color: #e28743;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
